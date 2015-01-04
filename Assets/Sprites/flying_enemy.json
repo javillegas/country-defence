@@ -1,0 +1,76 @@
+{"frames": {
+
+"FE_Attack_1.png":
+{
+	"frame": {"x":2,"y":81,"w":163,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":77},
+	"sourceSize": {"w":163,"h":77}
+},
+"FE_Attack_2.png":
+{
+	"frame": {"x":167,"y":2,"w":163,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":45},
+	"sourceSize": {"w":163,"h":45}
+},
+"FE_Attack_3.png":
+{
+	"frame": {"x":167,"y":81,"w":163,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":86},
+	"sourceSize": {"w":163,"h":86}
+},
+"FE_Attack_4.png":
+{
+	"frame": {"x":2,"y":2,"w":163,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":45},
+	"sourceSize": {"w":163,"h":45}
+},
+"FE_Die_1.png":
+{
+	"frame": {"x":490,"y":2,"w":163,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":77},
+	"sourceSize": {"w":163,"h":77}
+},
+"FE_Die_2.png":
+{
+	"frame": {"x":332,"y":2,"w":156,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":46},
+	"sourceSize": {"w":156,"h":46}
+},
+"FE_Die_3.png":
+{
+	"frame": {"x":332,"y":81,"w":129,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":94},
+	"sourceSize": {"w":129,"h":94}
+},
+"FE_Die_4.png":
+{
+	"frame": {"x":463,"y":81,"w":73,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":157},
+	"sourceSize": {"w":73,"h":157}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "flying_enemy.png",
+	"format": "RGBA8888",
+	"size": {"w":655,"h":240},
+	"scale": "0.1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bba347b460f0e7c892b9151a7c855844:179279e6e17ba1614d5fb8951a4d3faf:d9bcc1ccd2fd934b74f9d32cd210ad6c$"
+}
+}
